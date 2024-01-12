@@ -6,7 +6,7 @@
   2. Ask **choose file**, choose between **fragment.gsls.js** or **vertex.gsls.js**  (first you see nothing)
   3. Until you load a JSON file. This file immediately reflected based on sliders rgba an sliderN , and what color for triangles based on current checkbox selective.
       - SliderN change number of triangles in both mode, while slider rgba change color of triangles in user-config
-  4. Upload new file( incidate different amount of max triangle) slider will scale in its max-min value, and reflect on selected input perspective. 
+  4. Upload new file( incidate different amount of max triangle) slider will scale in its max-min value, and reflect on currently selected input perspective. 
  
  ### Some methods functionality 
  
