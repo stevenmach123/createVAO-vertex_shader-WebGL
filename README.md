@@ -1,11 +1,12 @@
-# spring-2021-assignment-0-stevenmach123
-spring-2021-assignment-0-stevenmach123 created by GitHub Classroom
-### How the program run
-  - First, you see nothing when try all slider or check box. Until you load a JSON file. This file immediately reflected based on sliders rgba an sliderN , and what color for triangles based on current checkbox selective 
-  
- - SliderN change number of triangles in both mode, while slider rgba change color of triangles in user-config
- 
- - Upload new file( incidate different amount of max triangle) slider will scale in both  max value perspective and selected value perspective. 
+## Computer Graphic Project 
+## Link
+   - s
+### How the program work
+  1. Download or clone repository first, then open the link
+  2. Ask **choose file**, choose between **fragment.gsls.js** or **vertex.gsls.js**  (first you see nothing)
+  3. Until you load a JSON file. This file immediately reflected based on sliders rgba an sliderN , and what color for triangles based on current checkbox selective.
+      - SliderN change number of triangles in both mode, while slider rgba change color of triangles in user-config
+  4. Upload new file( incidate different amount of max triangle) slider will scale in both  max value perspective and selected value perspective. 
  
  ### Some methods functionality 
  
