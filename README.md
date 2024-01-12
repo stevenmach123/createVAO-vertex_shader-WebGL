@@ -3,10 +3,12 @@
    - https://stevenmach123.github.io/createVAO-vertex_shader-WebGL/
 ### How the program work
   1. Download or clone repository first, then open the link
-  2. Ask **choose file**, choose between **fragment.gsls.js** or **vertex.gsls.js**  (first you see nothing)
-  3. Until you load a JSON file. This file immediately reflected based on sliders rgba an sliderN , and what color for triangles based on current checkbox selective.
-      - SliderN change number of triangles in both mode, while slider rgba change color of triangles in user-config
-  4. Upload new file( incidate different amount of max triangle) slider will scale in its max-min value, and reflect on currently selected input perspective. 
+  2. Ask **choose file**, choose between **example0.json** or **uic.json**  (first you see nothing)
+  3. Until you load a JSON file. This file immediately reflected based on sliders rgba (color combination) and sliderN (number of traingle)
+  4. Once file uploaded, Options for 2 checkboxs:
+      - If choose, **User Config** checkbox, you can modify color of vertex shaders and their SliderN.
+      - If choose, **File Update** checkbox, you can only modify their SliderN (as color has been configured) 
+  5. Upload different file (incidate different amount of max triangle) slider will scale in its max-min value, and reflect on currently selected input perspective. 
  
  ### Some methods functionality 
  
